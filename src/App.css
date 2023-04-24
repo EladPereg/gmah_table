@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+table {
+  border: 4px black solid;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px; 
+}
+
+th {
+  border: 4px black solid;
+  width: 100px;
+  height: 35px;
+}
+
+tr {
+  border: 3px black solid;
+}
+
+td {
+  border: 3px black solid;
+  height: 50px;
+  font-size: large;
+}
+
+#btn {
+margin-bottom: 25px;
+width: 150px;
+height: 50px;
+border-radius: 25px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: larger;
+font-weight: 900;
+cursor: pointer;
+}
+
+@media(max-width: 700px) {
+  table{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  th{
+    width:  50px;
+  }
+  td{
+    width:  50px;
+    font-size: medium;
+  }
+  #btn{
+    margin-left: 50px;
+    border-radius: 25px;
+    width: 125px;
+    height: 45px;
+    font-size: medium;
+    font-weight: 700;
+  }
+}
