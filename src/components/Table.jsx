@@ -76,7 +76,7 @@ export default function Table() {
                     <td></td>
                     <td>אפרים צור 13 קומה 3</td>
                     <td>פרץ</td>
-                    <td>6</td>
+                    <td>1</td>
                 </tr>
                 <tr>
                     <td>מול גן חב"ד {<br/>} (2 מנות)</td>
@@ -84,7 +84,7 @@ export default function Table() {
                     <td>052-3305626</td>
                     <td>הרב רחמים בוקרה </td>
                     <td>עמוס</td>
-                    <td>8</td>
+                    <td>2</td>
                 </tr>
                 <tr>
                     <td>קומה אחרונה, דלת מול משפחת בן עזרא</td>
@@ -92,7 +92,7 @@ export default function Table() {
                     <td></td>
                     <td>הרב נורוק 4/ב דירה 14</td>
                     <td>יאשה</td>
-                    <td>9</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <td>מתקשרים והוא יורד</td>
@@ -100,7 +100,7 @@ export default function Table() {
                     <td>052-8504687</td>
                     <td>ז'בוטינסקי 11</td>
                     <td>רמי</td>
-                    <td>10</td>
+                    <td>4</td>
                 </tr>
                 <tr>
                     <td>מול המדרגות הדלת הימנית</td>
@@ -108,7 +108,7 @@ export default function Table() {
                     <td></td>
                     <td>יוספטל 3/ג קומה 4</td>
                     <td>מון אמור</td>
-                    <td>11</td>
+                    <td>5</td>
                 </tr>
      
             </table>
