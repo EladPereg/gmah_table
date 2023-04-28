@@ -60,7 +60,7 @@ export default function Table() {
 
     return (
         <div>
-            <button disabled={btnFlag? true: false}  id='btn' onClick={() => { refreshTable();setbtnFlag(true);setMsg(true) }}>רענן טבלה</button>
+            <button /*disabled={btnFlag? true: false}*/  id='btn' onClick={() => { refreshTable();setbtnFlag(true);setMsg(true) }}>רענן טבלה</button>
             <table >
                 <tr >
                     <th>הערות</th>
@@ -113,8 +113,8 @@ export default function Table() {
      
             </table>
             <br />
-            {showMsg()}
-            {checkPmsg()}
+            {/* {showMsg()} */}
+            {/* {checkPmsg()} */}
         </div>
     )
 }
